@@ -9,7 +9,7 @@ var routes = <String, WidgetBuilder>{
 };
 
 void main() => runApp(new MaterialApp(
-    title: 'Discount ache',
+    title: 'Blog app',
     theme: ThemeData(
       primarySwatch: Colors.red,
       accentColor: Colors.yellowAccent,
